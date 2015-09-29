@@ -1,0 +1,76 @@
+c:\users\0944017\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.formControle.resources
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.formUtilisateur.resources
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\0944017\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+C:\Users\Gus\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Gus\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Gus\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Gus\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormControle.resources
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\1220282\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormUtilisateur.resources
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormControle.resources
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormUtilisateur.resources
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+F:\tp2c\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormControle.resources
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormUtilisateur.resources
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\1220282\Desktop\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormControle.resources
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormUtilisateur.resources
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Gus\Google Drive\!Documents\!Climoilou\Session 5\Programmation Réseau\TP2\Partie C\TP2C_201509231526\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.FormControle.resources
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.FormUtilisateur.resources
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
