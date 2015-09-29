@@ -18,7 +18,7 @@ Imports System.IO.Ports
 
 ''Modification 1
 Public Class FormControle
-    Private Const NOM_PORT As String = "COM3"
+    Private Const NOM_PORT As String = "COM4"
     Private formsUtilisateur As List(Of FormUtilisateur)
     Private listUtilisateurDistant As List(Of String)
     Private listUtilisateurLocale As List(Of String)
@@ -112,7 +112,7 @@ Public Class FormControle
 
             RafraichirListDestinataires()
         Else
-            MessageBox.Show("Le nom d'utilisateur sélectionner est déjà utilisé.", "Avertisement", MessageBoxButtons.OK)
+            MessageBox.Show("Le nom d'utilisateur sélectionner est déjà utilisé.", "Avertissement", MessageBoxButtons.OK)
         End If
     End Sub
 
@@ -248,6 +248,11 @@ Public Class FormControle
     Private Sub boutonAjouter_Click(sender As Object, e As EventArgs) Handles boutonAjouter.Click
         Dim utilistateur As String = listChatteurs.Text
         listChatteurs.Text = ""
-        AjoutUtilisateurLocale(utilistateur)
+        If (utilistateur <> "") Then
+            AjoutUtilisateurLocale(utilistateur)
+        Else
+            MessageBox.Show("Le nom d'utilisateur est vide.", "Avertissement", MessageBoxButtons.OK)
+        End If
+
     End Sub
 End Class

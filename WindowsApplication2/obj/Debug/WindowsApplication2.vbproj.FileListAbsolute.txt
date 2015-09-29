@@ -74,3 +74,15 @@ C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\Wi
 C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.FormUtilisateur.resources
 C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
 C:\Users\Gus\Documents\programmationreseau_tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.FormControle.resources
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.FormUtilisateur.resources
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\0944017\Documents\tp2c\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache

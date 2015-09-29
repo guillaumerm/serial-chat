@@ -113,12 +113,13 @@ Public Class Trame
 
     Private Function detransparence(ByVal data As String)
         Dim dataTemp As List(Of Char) = data.ToList()
-
-        For i As Integer = 0 To dataTemp.Count - 1
-            If (dataTemp(i) = END_FRAME Or dataTemp(i) = SEPARATOR) Then
-                dataTemp.RemoveAt(i - 1)
-            End If
-        Next
+        If (dataTemp.Count > 0) Then
+            For i As Integer = 0 To dataTemp.Count - 1
+                If (dataTemp(i) = END_FRAME Or dataTemp(i) = SEPARATOR) Then
+                    dataTemp.RemoveAt(i - 1)
+                End If
+            Next
+        End If
 
         Return New String(dataTemp.ToArray)
     End Function
